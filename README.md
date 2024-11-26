@@ -3,6 +3,8 @@
 
 ## Demo Video [Link](https://www.youtube.com/watch?v=M5v2rXOalcw)
 
+https://github.com/user-attachments/assets/3cccf00d-ec61-4f7b-b178-a71a8da4d0b9
+
 ### Problem Statement: Build a face recognition analytics system for law enforcement agencies
 #
 Problem Description:
