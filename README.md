@@ -1,4 +1,5 @@
-# Facial-Recognition-for-Crime-Detection
+# Crime_Recgnition_-_Detection_and_Analysis_by_Face
+
  Face recognition software to detect criminals in images and videos, noting their time of occurences.
 
 ## Sample Video 
