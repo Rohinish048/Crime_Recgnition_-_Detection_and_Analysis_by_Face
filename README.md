@@ -1,7 +1,7 @@
 # Facial-Recognition-for-Crime-Detection
  Face recognition software to detect criminals in images and videos, noting their time of occurences.
 
-## Demo Video [Link](https://www.youtube.com/watch?v=M5v2rXOalcw)
+## Sample Video 
 
 https://github.com/user-attachments/assets/3cccf00d-ec61-4f7b-b178-a71a8da4d0b9
 
